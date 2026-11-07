@@ -1,0 +1,55 @@
+venue_id,venue_name,venue_type,city,area,total_capacity,screens_or_halls
+1,Town Hall T Nagar,Auditorium,Chennai,T Nagar,581,1
+2,PVR Anna Nagar,Cinema,Chennai,Anna Nagar,293,2
+3,Chennai Cultural Hall,Auditorium,Chennai,T Nagar,395,1
+4,PVR Adyar,Cinema,Chennai,Adyar,263,4
+5,Chennai Cricket Ground,Stadium/Ground,Chennai,Porur,32493,1
+6,Cinepolis Lower Parel,Cinema,Mumbai,Lower Parel,121,3
+7,Powai Indoor Stadium,Stadium/Ground,Mumbai,Powai,15189,1
+8,PVR Powai,Cinema,Mumbai,Powai,143,7
+9,Cinepolis Powai,Cinema,Mumbai,Powai,131,8
+10,Mumbai Cultural Hall,Auditorium,Mumbai,Malad,865,1
+11,Cinepolis Thane,Cinema,Mumbai,Thane,267,4
+12,Mumbai Cricket Ground,Stadium/Ground,Mumbai,Andheri,19935,1
+13,Mumbai Sports Complex,Stadium/Ground,Mumbai,Andheri,11619,1
+14,Cinepolis Malad,Cinema,Mumbai,Malad,161,6
+15,Cinepolis Thane,Cinema,Mumbai,Thane,299,2
+16,Town Hall Saket,Auditorium,Delhi-NCR,Saket,1046,1
+17,Miraj Cinemas Noida,Cinema,Delhi-NCR,Noida,189,4
+18,Delhi-NCR Sports Complex,Stadium/Ground,Delhi-NCR,Connaught Place,7103,1
+19,Noida Convention Hall,Convention Centre,Delhi-NCR,Noida,535,1
+20,Cinepolis Gurugram,Cinema,Delhi-NCR,Gurugram,174,8
+21,Miraj Cinemas Rohini,Cinema,Delhi-NCR,Rohini,156,5
+22,Cinepolis Rohini,Cinema,Delhi-NCR,Rohini,311,7
+23,Noida Convention Hall,Convention Centre,Delhi-NCR,Noida,849,1
+24,Grand Ballroom Saket,Convention Centre,Delhi-NCR,Saket,1410,1
+25,PVR Koramangala,Cinema,Bengaluru,Koramangala,159,3
+26,Bengaluru Cricket Ground,Stadium/Ground,Bengaluru,Jayanagar,9163,1
+27,Miraj Cinemas Electronic City,Cinema,Bengaluru,Electronic City,255,5
+28,Grand Ballroom Koramangala,Convention Centre,Bengaluru,Koramangala,1876,1
+29,Cinepolis Electronic City,Cinema,Bengaluru,Electronic City,316,6
+30,INOX Jayanagar,Cinema,Bengaluru,Jayanagar,236,1
+31,Grand Ballroom Whitefield,Convention Centre,Bengaluru,Whitefield,1960,1
+32,Cinepolis Koramangala,Cinema,Bengaluru,Koramangala,283,4
+33,PVR Gachibowli,Cinema,Hyderabad,Gachibowli,273,6
+34,Banjara Hills Performing Arts Centre,Auditorium,Hyderabad,Banjara Hills,1199,1
+35,Hyderabad Trade Centre,Convention Centre,Hyderabad,Madhapur,518,1
+36,PVR Secunderabad,Cinema,Hyderabad,Secunderabad,141,8
+37,Hyderabad Trade Centre,Convention Centre,Hyderabad,Secunderabad,662,1
+38,Kolkata Sports Complex,Stadium/Ground,Kolkata,Ballygunge,22370,1
+39,Ballygunge Performing Arts Centre,Auditorium,Kolkata,Ballygunge,516,1
+40,Grand Ballroom Park Street,Convention Centre,Kolkata,Park Street,1038,1
+41,Miraj Cinemas Howrah,Cinema,Kolkata,Howrah,252,8
+42,PVR Hinjewadi,Cinema,Pune,Hinjewadi,206,1
+43,Town Hall Hinjewadi,Auditorium,Pune,Hinjewadi,525,1
+44,INOX Koregaon Park,Cinema,Pune,Koregaon Park,137,1
+45,Grand Ballroom Koregaon Park,Convention Centre,Pune,Koregaon Park,887,1
+46,INOX Maninagar,Cinema,Ahmedabad,Maninagar,258,3
+47,Ahmedabad Sports Complex,Stadium/Ground,Ahmedabad,Maninagar,35996,1
+48,Ahmedabad Trade Centre,Convention Centre,Ahmedabad,Satellite,598,1
+49,C-Scheme Indoor Stadium,Stadium/Ground,Jaipur,C-Scheme,31941,1
+50,Jaipur Cultural Hall,Auditorium,Jaipur,Vaishali Nagar,989,1
+51,Jaipur Sports Complex,Stadium/Ground,Jaipur,Vaishali Nagar,8972,1
+52,PVR Gomti Nagar,Cinema,Lucknow,Gomti Nagar,183,4
+53,INOX Gomti Nagar,Cinema,Lucknow,Gomti Nagar,228,3
+54,PVR Hazratganj,Cinema,Lucknow,Hazratganj,233,2

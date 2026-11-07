@@ -1,0 +1,58 @@
+event_id,title,category,language,genre,duration_mins,release_or_start_date,critic_rating
+1,Vettaiyan,Movies,Hindi,Family,169,30-08-2024,3.7
+2,Amaran,Movies,Hindi,Thriller,107,28-09-2024,4.5
+3,Maharaja,Movies,Tamil,Thriller,171,13-07-2024,4.9
+4,Pushpa 2,Movies,Malayalam,Family,169,21-02-2024,3.8
+5,Kanguva,Movies,English,Romance,120,09-07-2024,
+6,Singham Again,Movies,Hindi,Family,130,15-08-2025,4
+7,Bhool Bhulaiyaa 3,Movies,Telugu,Family,174,24-09-2024,4.3
+8,Stree 2,Movies,Hindi,Comedy,150,13-04-2025,4.4
+9,The Greatest of All Time,Movies,Hindi,Action,158,04-07-2025,3.2
+10,Indian 2,Movies,Tamil,Action,131,10-07-2025,4
+11,Devara,Movies,English,Family,167,02-11-2024,2.8
+12,Kalki 2898 AD,Movies,Hindi,Comedy,114,08-06-2024,4
+13,Sky Force,Movies,Kannada,Comedy,126,01-06-2025,4.8
+14,Chhaava,Movies,English,Action,111,15-02-2024,
+15,Deva,Movies,English,Drama,133,13-03-2025,2.8
+16,Sikandar,Movies,Kannada,Drama,169,19-07-2025,
+17,Vidaamuyarchi,Movies,Hindi,Action,139,10-02-2024,3
+18,Good Bad Ugly,Movies,Hindi,Family,113,20-02-2025,4.4
+19,Coolie,Movies,Hindi,Drama,122,06-12-2024,3.5
+20,Retro,Movies,Kannada,Family,131,20-04-2024,2.6
+21,Jaat,Movies,Telugu,Drama,125,08-11-2024,4.7
+22,Baaghi 4,Movies,Hindi,Action,124,12-03-2024,3.2
+23,The Big Fat City,Plays,Tamil,Family,133,29-01-2024,
+24,Gustakh Ishq,Plays,English,Drama,106,20-03-2025,4.5
+25,Piya Behrupiya,Plays,English,Family,97,17-09-2024,
+26,Detective,Plays,English,Drama,149,17-11-2025,3.6
+27,Hamlet — The Clown Prince,Plays,Tamil,Comedy,132,03-11-2024,4.2
+28,Adhe Adhure,Plays,English,Comedy,125,11-11-2025,4.2
+29,Crazy Thieves in Palavakkam,Plays,Hindi,Family,109,01-01-2024,3
+30,Bombay Talkies Live,Plays,Tamil,Family,119,06-08-2024,4.5
+31,IPL — Mumbai Indians vs CSK,Sports,,Badminton,185,26-09-2025,4.5
+32,ISL — Bengaluru FC vs Mohun Bagan,Sports,,Badminton,223,26-01-2024,
+33,Pro Kabaddi League Final,Sports,,Athletics,173,18-07-2024,3.5
+34,TNPL T20 Final,Sports,,Football,208,19-04-2024,3
+35,ATP Chennai Open,Sports,,Cricket,237,12-04-2025,
+36,India vs Australia — Test Day 3,Sports,,Badminton,196,29-03-2025,4.3
+37,Delhi Half Marathon 2026,Sports,,Athletics,140,01-05-2025,4.4
+38,National Badminton Championship,Sports,,Athletics,150,20-03-2024,3.1
+39,Ranji Trophy Quarterfinal,Sports,,Kabaddi,137,27-01-2025,4.3
+40,Arijit Singh Live in Concert,Events,Hindi,Comedy,149,04-03-2024,3.6
+41,Diljit Dosanjh — Dil-Luminati Tour,Events,,Festival,187,24-01-2025,4.9
+42,AR Rahman Symphony Night,Events,English,Comedy,184,09-09-2025,3.7
+43,Sunburn Festival,Events,English,Comedy,133,26-11-2025,4.3
+44,Standup Tamizha Live,Events,English,Music,140,31-07-2025,2.7
+45,Zakir Khan — Comedy Special,Events,English,Music,123,01-12-2024,3.3
+46,NH7 Weekender,Events,English,Comedy,100,20-01-2024,2.6
+47,Carnatic Music Festival,Events,English,Music,95,01-02-2024,3
+48,Coldplay India Tour,Events,Hindi,Festival,150,27-04-2024,3
+49,Kacheri Season Special,Events,,Comedy,167,27-04-2024,2.9
+50,Pottery Workshop,Activities,English,Workshop,133,24-11-2025,3.4
+51,Bharatanatyam Masterclass,Activities,Hindi,Workshop,91,14-04-2024,3.3
+52,Stand-up Comedy Open Mic,Activities,Hindi,Workshop,107,11-03-2024,3.4
+53,Wine Tasting Evening,Activities,English,Experience,174,15-04-2025,3.6
+54,Photography Walk,Activities,English,Experience,135,01-10-2024,3.1
+55,Kids Art & Craft Camp,Activities,Hindi,Experience,132,16-09-2025,3.3
+56,Escape Room Challenge,Activities,English,Experience,162,21-09-2024,4.7
+57,Regional Cooking Class,Activities,English,Workshop,90,20-02-2025,4.4
